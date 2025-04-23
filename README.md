@@ -3,14 +3,14 @@
 ###
 
 <div align="right">
-  <img src="https://profile-counter.glitch.me/cray06/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Clement-DujardinDuribreux/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cray06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1&custom_title=Stats" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clement-DujardinDuribreux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&order=2&custom_title=Languages" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Clement-DujardinDuribreux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1&custom_title=Stats" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clement-DujardinDuribreux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&order=2&custom_title=Languages" height="220" alt="languages graph"  />
 </div>
 
 ###
@@ -53,7 +53,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cray06/cray06/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Clement-DujardinDuribreux/Clement-DujardinDuribreux/output/snake.svg" alt="Snake animation" />
 
 ###
 
